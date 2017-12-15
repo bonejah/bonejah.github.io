@@ -1,0 +1,15 @@
+.panel-about {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.panel-about .title {
+  font-size: 40px;
+  font-family: sans-serif;
+  margin-bottom: 30px;
+  padding: 1px;
+}
+
+.panel-about .subtitle {
+  font-size: 20px;
+}
