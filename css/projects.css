@@ -2,3 +2,19 @@
   text-align: center;
   margin-top: 60px;
 }
+
+.panel-projects .title {
+  color: #252a30;
+  font-size: 2.0rem;
+  font-family: sans-serif;
+  font-weight: 700;
+  line-height: 1.4;
+  margin: 6rem 0 1.8rem; 
+  text-align: center;
+}
+
+.panel-projects .subtitle {
+  font-size: 1.6rem;
+  text-align: center;
+  color: #524e4d;
+}
